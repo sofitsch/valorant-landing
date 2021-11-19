@@ -1,0 +1,222 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+.navbar-logo {
+    width: 79px;
+    height: 40px;
+    margin-top: -812px;
+    margin-left: 12px;
+background: #FFFFFF;
+}
+.navbar {
+    width: 2660px;
+    height: 132px;
+ 
+   background: #1F2326;
+}
+ .logo {
+    position: absolute;
+    width: 48px;
+    height: 40px;
+    margin-right: 50px;
+    
+    background: #FFFFFF;
+ }
+
+ .line {
+    position: absolute;
+    width: 2px;
+    height: 42px;
+    
+    background: #FFFFFF;
+ }
+
+ 
+
+ .bg {
+    width: 2660px;
+    height: 1716px;
+    left: 0px;
+    top: 0px;
+    
+    background: #FF4656;
+    border-radius: 32px;
+ }
+
+.caja1 {
+   background-color: #FF4656;
+   height: 1015px;
+   width: 210px;
+   float: left;
+}
+.caja2 {
+   background-color: #FF4656;
+   width: 270px;
+   height: 1025px;
+   float: left;
+}
+
+.caja3 {
+   background-color: #FF4656;
+   width: 100px;
+   height: 1025px;
+   float: left ;
+}
+
+.caja4 {
+   background-color: #FF4656;
+   width: 505px;
+   height: 990px;
+   float:left
+   
+
+}
+
+.caja5 {
+   background-color: #FF4656;
+   width: 100px;
+   height: 1025px;
+   float: left ;
+}
+
+.caja6 {
+   background-color: #FF4656;
+   width: 505px;
+   height: 990px;
+   float: left ;
+}
+
+.caja7 {
+   background-color: #FF4656;
+   width: 100px;
+   height: 1025px;
+   float: left ;
+}
+
+.caja8 {
+   background-color: #FF4656;
+   width: 505px;
+   height: 990px;
+   float: left ;
+}
+
+.row {
+   background-color: #FF4656;
+   width: 2660px;
+   height: 132px;
+}
+
+
+
+.footer {
+   width: 2660px;
+   height: 82px;
+
+background: #F8F8F8;
+border-radius: 0px 0px 32px 32px;
+
+}
+
+
+.blanc1 {
+   background-color: #FF4656;
+  width: 210px;
+  height: 248px;
+ float: left;
+}
+
+.cajaA {
+   background-color: #FFFFFF;
+   width: 724px;
+   height: 248px;
+   float: left ;
+   border: 2px solid #000000;
+   box-sizing: border-box;
+}
+
+.blanc2 {
+   background-color: #FF4656;
+   width: 50px;
+   height: 248px;
+   float: left;
+}
+.cajaB {
+   background-color: #FFFFFF;
+   width: 724px;
+   height: 248px;
+   float: left ;
+   border: 2px solid #000000;
+   box-sizing: border-box;
+}
+
+.blanc3 {
+   background-color: #FF4656;
+   width: 50px;
+   height: 248px;
+   float: left;
+   
+}
+.cajaC {
+   background-color: #FFFFFF;
+   width: 724px;
+   height: 248px;
+   float: left ;
+   border: 2px solid #000000;
+   box-sizing: border-box;
+
+}
+
+h3 {
+   font-family: arial black;
+ font-style: normal;
+ font-weight: 500;
+ font-size: 24px;
+ line-height: 31px;
+ width: 224px;
+ height: 25px;
+ margin-left: 50px;
+ margin-top: 1465px;
+ 
+ color: black;
+
+}
+
+h2 {
+
+width: 411px;
+ height: 41px;
+ margin-left: 50px;
+margin-top: 1392px;
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 52px;
+color: #C4C4C4;
+
+}
+
+h4 {
+   font-family: Arial, Helvetica, sans-serif ;
+   position: absolute;
+   width: 315px; 
+   height: 56px;
+   margin-left: 50px;
+   margin-top: 15px;
+
+
+color: black;
+}
+
+.block {
+   width: 190px;
+height: 182px;
+margin-left: 380px;
+margin-top: -5%;
+}
+
+.icon {
+  margin-left: 60%;
+  margin-right: 8%;
+  margin-top: -40%;
+  
+}
